@@ -11,8 +11,6 @@ Description: Measurements of electric power consumption in one household with a 
 
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 
-The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
-
 Date: Date in format dd/mm/yyyy
 
 Time: time in format hh:mm:ss
