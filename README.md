@@ -1,7 +1,7 @@
 ---
 title: "Course Project 1 - Reproducible Research"
-author: "Shengyu Chen"
-date: "March 20, 2016"
+author: "Emerson Oliveira"
+date: "December 22, 2022"
 output: html_document
 ---
 
